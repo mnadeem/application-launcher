@@ -29,15 +29,7 @@ Application Launcher is based on [Java Service Wrapper][jswId]
 
 
 ### FAQ ###
-
 ---
-
-
-#### How do I change the port? ####
-
-_Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows_
-
-	wrapper.app.parameter.2=--httpPort=8070
 
 
 
