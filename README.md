@@ -1,5 +1,8 @@
 ## Application Launcher ##
 
+Managing, configuring standalone java applications made easy with __Application Launcher__
+
+
 ### FEATURES ###
 
 ---
