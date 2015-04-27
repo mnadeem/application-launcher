@@ -1,5 +1,18 @@
 ## Application Launcher ##
 
+### FEATURES ###
+
+---
+
+* Pre bundled script which would allow you to manage application instance in different environments seamlessly
+* Configurations can be changed/added very easily
+* Scripts supports init.d configuration and Windows Service modes
+* Upgrading Application is just a matter of replacing libraries in lib folder
+* you can added other jar files easily in the class path
+* _application parameters_ and _jmv parameters_ can configured very easily
+
+
+### Usage ###
 After downloading the zip file copy your application and dependent jar files to RUNNER_HOME/lib
 Modify line number 35 to add class containing main method
 ````
